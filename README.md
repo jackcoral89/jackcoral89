@@ -17,4 +17,3 @@ I love outdoor sports and nature 🏔
 </a>
 
 ## Bye-Bye ! 🙋‍
-<iframe src="https://giphy.com/embed/3JTPzTSyEwS7Z43mL5" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
