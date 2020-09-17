@@ -11,7 +11,7 @@ I love outdoor sports and nature 🏔
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
 - twitter: [jackcoral89](https://twitter.com/jackcoral89) ( little active 🙃 )
 
-## 📈 GitHub Stats
+## GitHub Stats 🦾
 <a href="https://github.com/jackcoral89/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcoral89&hide=php,html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
