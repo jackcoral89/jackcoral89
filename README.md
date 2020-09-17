@@ -1,6 +1,6 @@
 # Hi there!! 👋  I'm Giacomo 😎
 
-I'm **Developer**, frontend oriented, with a big passion for IT. I like writing **JavaScript/TypeScript**, **HTML** and **CSS(Scss)** code to development web and mobile applications. I like [WordPress]() I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
+I'm **Developer**, frontend oriented, with a big passion for IT. I like writing **JavaScript/TypeScript**, **HTML** and **CSS(Scss)** code to development web and mobile applications. I like [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a custom [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
 
 I love outdoor sports and nature 🏔
 
@@ -13,7 +13,7 @@ I love outdoor sports and nature 🏔
 
 ## GitHub Stats 🦾
 <a href="https://github.com/jackcoral89/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcoral89&hide=php,html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcoral89&hide=php,html,powershell&title_color=000&text_color=212121&icon_color=2bbc8a&bg_color=fff" />
 </a>
 
 <!--
