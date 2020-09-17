@@ -1,4 +1,4 @@
-## Hi there!! 👋  I'm Giacomo 😎
+# Hi there!! 👋  I'm Giacomo 😎
 
 I'm developer, **frontend** oriented, with a big passion for IT. I like writing **JavaScript/TypeScript**, **HTML** and **CSS(Scss)** code to development web and mobile applications, and websites. I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
 
