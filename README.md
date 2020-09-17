@@ -1,5 +1,8 @@
-### Hi there !! 👋
-### I'm Giacomo. Developer & IT Lover
+## Hi there!! 👋  I'm Giacomo 😎
+
+I'm developer, **frontend** oriented, with a big passion for IT. I like writing **JavaScript/TypeScript**, **HTML** and **CSS(Scss)** code to development web and mobile applications, and websites. I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
+
+I love outdoor sports and nature 🏔
 
 <!--
 **jackcoral89/jackcoral89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
