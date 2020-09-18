@@ -1,8 +1,11 @@
 # Hi there!! 👋  I'm Giacomo 😎
 
-I'm **Developer**, frontend oriented, with a big passion for IT. I like writing **JavaScript/TypeScript**, **HTML** and **CSS(Scss)** code to development web and mobile applications. I like [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a custom [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
+I'm a **Developer**, frontend oriented, with a big passion for IT. I like writing **JavaScript/TypeScript** code to development web and mobile applications. Love [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a custom [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
 
-I love outdoor sports and nature 🏔
+## Current state 🧐
+- Currently working from home with focus on frontend technologies 🤓
+- I learning [React](https://reactjs.org/) ⚛
+- Cycling and mountain obsessed 🚴‍ ⛰
 
 ## How find me 🕵️‍
 - e-mail: [dev@giacomocorallini.com](mailto:dev@giacomocorallini.com/)
