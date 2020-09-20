@@ -1,6 +1,6 @@
 # Hi there!! 👋  I'm Giacomo 😎
 
-I'm a **Developer**, frontend oriented, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code to develop web and mobile applications. I love [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a custom [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
+I'm a **Developer**, frontend oriented, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code to develop web and mobile applications. I love [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/) and [Vue](https://vuejs.org/).
 
 ## Current state 🧐
 - I currently work for [Loccioni Group](https://www.loccioni.com/en/) on a HMI (Human Machine Interface) for monitoring by robot that scans train rails 🚆
