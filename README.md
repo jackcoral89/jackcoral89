@@ -17,7 +17,7 @@ I'm a **Developer**, frontend oriented, with a great passion for **IT**. I enjoy
 
 ## GitHub Stats 🦾
 <a href="https://github.com/jackcoral89/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcoral89&hide=java" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcoral89&hide=php" />
 </a>
 
 ## Bye-Bye ! 🙋‍
