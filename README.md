@@ -13,7 +13,7 @@ I'm a **Developer**, frontend oriented, with a great passion for **IT**. I enjoy
 - facebook: [jackcoral89](https://www.facebook.com/jackcoral89/)
 - instagram: [jackcoral89](https://www.instagram.com/jackcoral89/)
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
-- medium: [jackcoral89](https://jackcoral.medium.com/)
+- medium: [jackcoral89](https://jackcoral.medium.com/) <a href="http://example.com/" target="_blank">example</a>
 
 ## GitHub Stats 🦾
 <a href="https://github.com/jackcoral89/">
