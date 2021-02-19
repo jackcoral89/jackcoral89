@@ -16,7 +16,7 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - medium: [jackcoral89](https://jackcoral.medium.com/)
 
 ## Other technologies
-<img width="26px" src="https://iconscout.com/icon/javascript-2752148" />
+<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
 ## GitHub Stats 🦾
 <a href="https://github.com/jackcoral89/">
