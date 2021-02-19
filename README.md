@@ -16,10 +16,10 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - medium: [jackcoral89](https://jackcoral.medium.com/)
 
 ## Other technologies
-<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-<img width="26px" src="https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg" />
-<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" width="26px" src="https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
 
 ## GitHub Stats 🦾
