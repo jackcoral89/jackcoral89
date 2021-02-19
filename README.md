@@ -15,6 +15,9 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
 - medium: [jackcoral89](https://jackcoral.medium.com/)
 
+## Other technologies
+<img width="26px" src="https://iconscout.com/icon/javascript-2752148" />
+
 ## GitHub Stats 🦾
 <a href="https://github.com/jackcoral89/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackcoral89&hide=php" />
