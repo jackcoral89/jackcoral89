@@ -20,8 +20,7 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />
 <img align="left" width="26px" src="https://banner2.cleanpng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" />
+<img align="left" width="26px" src="https://ionicframework.com/img/meta/logo.png" />
 
 
 
