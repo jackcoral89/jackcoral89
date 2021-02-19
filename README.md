@@ -15,14 +15,14 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
 - medium: [jackcoral89](https://jackcoral.medium.com/)
 
-## Other technologies
+## Other technologies and tools
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />
-<img align="left" width="26px" src="https://banner2.cleanpng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
+<img align="left" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" width="26px" src="https://ionicframework.com/img/meta/logo.png" />
-
-
 
 <br />
 <br />
