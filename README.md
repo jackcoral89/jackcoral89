@@ -25,7 +25,6 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 <img align="left" width="26px" src="https://ionicframework.com/img/meta/logo.png" />
 <img align="left" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" width="26px" src="https://ionicframework.com/img/meta/logo.png" />
 
 <br />
 <br />
