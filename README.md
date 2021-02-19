@@ -16,6 +16,7 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - medium: [jackcoral89](https://jackcoral.medium.com/)
 
 ## Other technologies and tools
+<img align="left" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />
