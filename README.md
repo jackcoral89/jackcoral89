@@ -5,7 +5,7 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 ## Current state 🧐
 - I currently work for [Loccioni Group](https://www.loccioni.com/en/) on a HMI (Human Machine Interface) for monitoring by robot that scans train rails 🚆
 - I work from home with a focus on frontend technologies 🤓
-- I'm learning [React](https://reactjs.org/) ⚛
+- I'm learning [React](https://reactjs.org/) and [.NET 5](https://dotnet.microsoft.com/)
 - A little look at the [MERN](https://www.mongodb.com/mern-stack) Stack
 - Cycling and mountain obsessed 🚴‍ ⛰
 
