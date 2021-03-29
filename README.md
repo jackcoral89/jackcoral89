@@ -1,4 +1,4 @@
-# Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Giacomo <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" style="width: 40px; margin-bottom: -8px">
+# Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Giacomo <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="40px" style="margin-bottom: -8px">
 
 I'm a **Software Developer**, frontend oriented, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code to develop web and mobile applications. I love [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/).
 
