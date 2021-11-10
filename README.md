@@ -3,7 +3,7 @@
 I'm a **Software Developer**, frontend oriented, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code to develop web and mobile applications. I love [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/).
 
 ## Current state 🧐
-- I currently work for [Loccioni Group](https://www.loccioni.com/en/) on a HMI (Human Machine Interface) for monitoring by robot that scans train rails 🚆
+- I currently work at Railway business line for [Loccioni Group](https://www.loccioni.com/en/). I develop UI software with Angular for the Felix X2 Robot 🚆
 - I work from home with a focus on frontend technologies 🤓
 - I'm learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/it/) and [.NET 5](https://dotnet.microsoft.com/)
 - Cycling and mountain obsessed 🚴‍ ⛰
