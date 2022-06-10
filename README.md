@@ -9,9 +9,6 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - Cycling and mountain obsessed 🚴‍ ⛰
 
 ## How find me 🕵️‍
-- e-mail: [corallinigiacomo89@gmail.com](mailto:corallinigiacomo89@gmail.com/)
-- facebook: [jackcoral89](https://www.facebook.com/jackcoral89/)
-- instagram: [jackcoral89](https://www.instagram.com/jackcoral89/)
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
 - hasnode: [giuaj](https://hashnode.com/@giuaj)
 - medium: [jackcoral89](https://jackcoral.medium.com/)
