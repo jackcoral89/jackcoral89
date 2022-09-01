@@ -6,7 +6,7 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 - I currently work at Railway business line for [Loccioni Group](https://www.loccioni.com/en/). I develop UI software with Angular for the Felix X2 Robot 🚆
 - I work from home with a focus on frontend technologies 🤓
 - I'm learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/it/) and [.NET](https://dotnet.microsoft.com/)
-- Outdoors & Nature 🚴‍ ⛰
+- Outdoor & Nature 🚴‍ ⛰
 
 ## How find me 🕵️‍
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
