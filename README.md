@@ -11,7 +11,6 @@ I'm a **Software Developer**, frontend oriented, with a great passion for **IT**
 ## How find me 🕵️‍
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
 - hasnode: [giuaj](https://hashnode.com/@giuaj)
-- medium: [jackcoral89](https://jackcoral.medium.com/)
 
 ## Technologies and tools
 <img align="left" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />
