@@ -12,11 +12,12 @@ I'm a **Software Developer**, with a great passion for **IT**. I enjoy writing *
 - hasnode: [giuaj](https://hashnode.com/@giuaj)
 
 ## Technologies and tools
-<img align="left" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />
-<img align="left" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-<img align="left" width="26px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+<img align="left" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" />
+<img align="left" width="46px" src="https://angular.io/assets/images/logos/angular/angular.png" />
+<img align="left" width="46px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+<img align="left" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" width="46px" src="https://wazuh.com/uploads/2022/11/Docker-container-security-monitoring-with-Wazuh-Circle.png" />
 
 <br />
 <br />
