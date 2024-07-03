@@ -1,12 +1,11 @@
 # Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Giacomo <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="40" style="margin-bottom: -8px">
 
-I'm a **Software Developer**, frontend oriented, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code to develop web and mobile applications. I love [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/).
+I'm a **Software Developer**, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code and .NET applications to build web and mobile applications. I like [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/), [.NET](https://dotnet.microsoft.com/) and [Docker](https://www.docker.com/).
 
 ## Current state 🧐
 - I currently work at Railway business line for [Loccioni Group](https://www.loccioni.com/en/). I develop UI software with Angular for the Felix X2 Robot 🚆
-- I work from home with a focus on frontend technologies 🤓
-- I'm learning [.NET](https://dotnet.microsoft.com/) and [React](https://reactjs.org/)
-- Outdoor & Nature 🌱
+- I try to stay up to date with the latest technologies 🤓
+- Cycling, Outdoor & Nature 🌱
 
 ## How find me 🕵️‍
 - linkedin: [giacomocorallini](https://www.linkedin.com/in/giacomocorallini/)
