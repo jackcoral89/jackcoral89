@@ -1,6 +1,6 @@
 # Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Giacomo <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="40" style="margin-bottom: -8px">
 
-I'm a **Software Developer**, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code and .NET applications to build on web and mobile. I like [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/), [.NET](https://dotnet.microsoft.com/) and [Docker](https://www.docker.com/).
+I'm a **Software Developer**, with a great passion for **IT**. I enjoy writing **JavaScript/TypeScript** code and **.NET** applications to built on web and mobile. I like [WordPress](https://wordpress.org/) and the community behind it and recently i wrote a [starter-theme](https://github.com/jackcoral89/wp__webPack) with [webpack](https://webpack.js.org/). I currently work with [Angular](https://angular.io/), [.NET](https://dotnet.microsoft.com/) and [Docker](https://www.docker.com/).
 
 ## Current state 🧐
 - I currently work at Railway business line for [Loccioni Group](https://www.loccioni.com/en/). I develop UI software with Angular for the Felix X2 Robot 🚆
