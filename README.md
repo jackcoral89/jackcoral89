@@ -12,7 +12,7 @@ I'm a **Software Developer**, with a great passion for **IT**. I enjoy writing *
 - hasnode: [giuaj](https://hashnode.com/@giuaj)
 
 ## Technologies and tools
-<img align="left" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" />
+<img align="left" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" />
 <img align="left" width="46px" src="https://angular.io/assets/images/logos/angular/angular.png" />
 <img align="left" width="46px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 <img align="left" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
